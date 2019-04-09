@@ -1,2 +1,2 @@
-# gripper
+# Gripper
 Gripper CAD
